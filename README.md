@@ -34,6 +34,7 @@ This is the code for the simplified app we're working on
   - grid for monthly overview
 
 ## JS
+- saving the data (user, # of tasks, task name, date, starred, status)
 - counter to change the amount of tasks you have on the calendar
 - filtering tasks -- star feature
 - checkbox
